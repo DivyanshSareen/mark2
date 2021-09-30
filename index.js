@@ -9,7 +9,7 @@ var questions = [
     },
     {
         "question" : "Finish this Dwight quote: \"Those who can't farm...\"",
-        "answer" : "\"farm celery.\""
+        "answer" : "\"farm celery\""
     },
     {
         "question" : "From what ages was Dwight shunned by his family for failing to save the excess oil from a can of tuna?",
